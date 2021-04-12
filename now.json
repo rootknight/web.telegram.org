@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    { "source": "/api/pluto/:match*", "destination": "https://pluto.web.telegram.org/:match*" },
+    { "source": "/api/venus/:match*", "destination": "https://venus.web.telegram.org/:match*" },
+    { "source": "/api/aurora/:match*", "destination": "https://aurora.web.telegram.org/:match*" },
+    { "source": "/api/vesta/:match*", "destination": "https://vesta.web.telegram.org/:match*" },
+    { "source": "/api/flora/:match*", "destination": "https://flora.web.telegram.org/:match*" },
+    { "source": "/api/pluto-1/:match*", "destination": "https://pluto-1.web.telegram.org/:match*" },
+    { "source": "/api/venus-1/:match*", "destination": "https://venus-1.web.telegram.org/:match*" },
+    { "source": "/api/aurora-1/:match*", "destination": "https://aurora-1.web.telegram.org/:match*" },
+    { "source": "/api/vesta-1/:match*", "destination": "https://vesta-1.web.telegram.org/:match*" },
+    { "source": "/api/flora-1/:match*", "destination": "https://flora-1.web.telegram.org/:match*" }
+  ]
+}
